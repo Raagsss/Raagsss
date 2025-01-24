@@ -9,11 +9,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f78b79e8a3953a77b50dfd566277f1a9b42ced6daea16ea29c95978900d785b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62622f33372f35632f62623337356364643635353138346361323731356163353035396537333635312e676966">
 
-- 🔭 I’m currently working on **Cyber Security Skills**
+- 🔭 I’m currently working on **Cyber Security Skills, DSA**
 
 - 🌱 I’m currently learning **DSA and Pentesting**
 
-- 💬 Ask me about **Linux, DSA, Ethical Hacking**
+- 💬 Ask me about **Linux, DSA, Ethical Hacking, Frontend Development, UI/UX**
 
 - 📫 How to reach me **raghavrana970@gmail.com**
 
