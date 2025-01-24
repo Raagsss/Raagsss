@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Rana</h1>
 <h3 align="center">A cybersecurity enthusiast and certified ethical hacker from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-raghavx&label=Profile%20views&color=0e75b6&style=flat" alt="raagsss" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raagsss&label=Profile%20views&color=0e75b6&style=flat" alt="raagsss" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raagsss" alt="raagsss" /></a> </p>
 
