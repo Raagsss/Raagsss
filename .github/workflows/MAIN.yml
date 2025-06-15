@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,6 +13,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Create dist directory (just in case)
+        run: mkdir -p dist
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         id: snake
@@ -21,10 +24,10 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Check git status (for debug)
-        run: git status
+      - name: List output files
+        run: ls -R dist
 
-      - name: Push animation to output branch
+      - name: Publish to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
