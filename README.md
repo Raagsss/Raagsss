@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raagsss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 💫 About Me:
-💻 I'm currently working on<br>Enhancing my DSA and cybersecurity skills to deepen my technical expertise.<br><br>🤝 I'm looking to collaborate on<br>Exciting projects or opportunities with companies where I can add value and grow my skills.<br><br>🚀 I'm looking for help with<br>Connecting with like-minded professionals and gaining industry experience.<br><br>📚 I'm currently learning<br>      1. Web Development<br>      2. C++<br>      3. Ethical Hacking<br><br>❓ Ask me about<br>Cybersecurity, DSA, C++, or anything tech-related!<br><br>🏊 Fun fact<br>I'm a national-level swimmer, and I love keeping myself busy with work and new challenges!
+💻 I'm currently working on<br>Enhancing my DSA, cybersecurity skills and frontend development to deepen my technical expertise.<br><br>🤝 I'm looking to collaborate on<br>Exciting projects or opportunities with companies where I can add value and grow my skills.<br><br>🚀 I'm looking for help with<br>Connecting with like-minded professionals and gaining industry experience.<br><br>📚 I'm currently learning<br>      1. Frontend Development<br>      2. C++<br>      3. Ethical Hacking<br><br>❓ Ask me about<br>Cybersecurity, DSA, C++, or anything tech-related!<br><br>🏊 Fun fact<br>I'm a national-level swimmer, and I love keeping myself busy with work and new challenges!
 
 
 
